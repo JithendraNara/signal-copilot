@@ -1,0 +1,10 @@
+[
+  {
+    "question": "What does conversion_rate mean?",
+    "must_include": "paid conversions"
+  },
+  {
+    "question": "Which tables can I query safely?",
+    "must_include": "marts_daily_kpis"
+  }
+]
