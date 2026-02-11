@@ -33,3 +33,9 @@ python scripts/build_index.py
 pytest -q
 ./scripts/run_local.sh
 ```
+
+## Development Trail
+- Roadmap: `ROADMAP.md`
+- Changelog: `CHANGELOG.md`
+- Proof mapping: `PROOF.md`
+- Resume bullets: `RESUME_BULLETS.md`
