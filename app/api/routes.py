@@ -15,7 +15,7 @@ router = APIRouter()
 
 @router.get("/health")
 def health() -> dict[str, str]:
-    return {"status": "ok", "service": "signal-copilot"}
+    return {"status": "ok", "service": "analytics-copilot-rag"}
 
 
 @router.post("/v1/index/rebuild")
