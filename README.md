@@ -1,4 +1,4 @@
-# signal-copilot
+# analytics-copilot-rag
 
 RAG-powered analytics assistant grounded in project docs, schemas, and KPI definitions.
 
